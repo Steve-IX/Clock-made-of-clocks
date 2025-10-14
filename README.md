@@ -17,7 +17,7 @@ Imagine if each number on a digital clock was actually composed of **24 tiny ana
 
 ## 🚀 Live Demo
 
-**Experience the magic**: [Deploy to Vercel](https://vercel.com/new/clone?repository-url=https://github.com/Steve-IX/Clock-made-of-clocks.git)
+**Experience the magic**: [View Live Demo](https://clock-made-of-clocks.vercel.app)
 
 ## 🎬 How It Works
 
@@ -104,21 +104,32 @@ src/
 └── index.css                  # 🎯 Base styles
 ```
 
-## 🌐 Deploy to Vercel
+## 🌐 Live Deployment
 
-This project is **Vercel-ready** out of the box! 
+This project is currently deployed on **Vercel** and live at:
 
-### One-Click Deploy
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Steve-IX/Clock-made-of-clocks.git)
+**🔗 [https://clock-made-of-clocks.vercel.app](https://clock-made-of-clocks.vercel.app)**
 
-### Manual Deploy
+### Deploy Your Own Copy
+
+Want to deploy your own version? It's easy with Vercel:
+
 ```bash
+# Clone this repository
+git clone https://github.com/Steve-IX/Clock-made-of-clocks.git
+cd Clock-made-of-clocks
+
+# Install dependencies
+npm install
+
 # Build the project
 npm run build
 
 # Deploy to Vercel
 npx vercel --prod
 ```
+
+Or simply click "Deploy" on Vercel and connect this GitHub repository!
 
 ## 🎨 Customization
 
