@@ -1,0 +1,29 @@
+.clock-display {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  padding: 40px;
+}
+
+.time-segment {
+  display: flex;
+  gap: 10px;
+}
+
+.colon {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  margin: 0 5px;
+}
+
+.dot {
+  width: 12px;
+  height: 12px;
+  background-color: #ffd700;
+  border-radius: 50%;
+}
+

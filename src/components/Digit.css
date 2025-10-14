@@ -1,0 +1,9 @@
+.digit {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(6, 1fr);
+  gap: 2px;
+  width: 120px;
+  height: 180px;
+}
+
