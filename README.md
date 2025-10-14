@@ -17,7 +17,7 @@ Imagine if each number on a digital clock was actually composed of **24 tiny ana
 
 ## 🚀 Live Demo
 
-**Experience the magic**: [View Live Demo](https://clock-made-of-clocks.vercel.app)
+**Experience the magic**: [View Live Demo](https://clock-made-of-clocks-teal.vercel.app/)
 
 ## 🎬 How It Works
 
